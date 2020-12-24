@@ -19,7 +19,7 @@
   <div class="form-group">
     <label for="exampleFormControlSelect1">Motivo:</label>
     <select class="form-control" id="exampleFormControlSelect1">
-      <option>Sugerencias</option>
+      <option>Sugerenciasss</option>
       <option>Reclamo</option>
       <option>Consulta</option>
       <option>FELICITACIONES</option>
