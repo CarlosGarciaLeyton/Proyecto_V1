@@ -13,7 +13,7 @@
      <section>
      	<form class="contacto">
   <div class="form-group">
-    <label for="exampleFormControlInput1">Email :</label>
+    <label for="exampleFormControlInput1">Email cambio :</label>
     <input type="email" class="form-control" id="exampleFormControlInput1" placeholder="name@example.com">
   </div>
   <div class="form-group">
